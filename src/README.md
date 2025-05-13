@@ -10,6 +10,7 @@ A super simple FastAPI application that allows students to view and sign up for 
 ## Getting Started
 
 1. Install the dependencies:
+test
 
    ```
    pip install fastapi uvicorn
